@@ -1,0 +1,88 @@
+FINAL PROJECT. ANALYZING THE SHARING ECONOMY WITH AIRBNB DATA
+Background
+In the past few years, the sharing economy has grown in prominence, with platforms such as
+Airbnb challenging traditional hotel and hospitality industries. This has also led to broader societal
+changes such as putting a strain on the rental market and increasing house prices. Yet, much of the
+conversation about this has been driven by anecdotal evidence (e.g stories by those hurt / helped by
+Airbnb). In response people have started collecting data on Airbnb to “add data to the conversation”
+around the sharing economy.
+As we were beginning to understand the home sharing economy, COVID happened and
+travel, tourism, commuting patterns all changed completely. The objective of this assignment is to
+provide data driven insights into how the sharing economy in Los Angeles is looking like post-COVID
+(How does the market look in 2022-2023 and what will it be in the future?).
+This assignment is unstructured by its very nature. I have presented you with a general
+problem, but it is up to you to focus on the specific question you are planning to answer, and you are
+planning to answer it. Start from the goal you are trying to reach, and work towards how you can
+provide an answer with the data you have been given.
+Assignment (Both Part A and Part B are required)
+Part A) What will be the future of Home Sharing in LA? (15%)
+Provide data driven predictions for how you think the home sharing market will look in the future.
+You may just provide insightful trends, or you may perform forecasting. It is up to you to decide how
+you would like to perform this analysis (e.g., Will you look at Price of listings, volume of listings, type
+of listings, location of listings, availability, etc.?). The key is to provide evidence in the data, either of
+how the home sharing market has changed, or how you think it may have changed.
+Part B) What is important for a successful listing? (15%)
+Can you identify the characteristics that were associated with highly successful listings? It is open to
+you how you define “success” and what you choose to show.
+Deliverable:
+The deliverable should be a presentation deck of up to 15 slides (you can include an appendix or
+otherwise annotate) in which you summarize your findings. No need to show any code but attempt
+to show visualizations or clear figures summarizing your findings. You will do a presentation in
+class with your group (15-20 minutes) during the last week of class (Dec 2/4). The final
+deliverables (presentation slides/any appendix + peer evaluation forms) are due Dec 7, 5pm
+ET.
+Data
+I will be providing you with the following dataset: Airbnb Listings in the Los Angeles Area (2022.10 –
+2023.9)
+
+o
+
+Summary Listings Data [Aggregated data file which should be the starting point for everyone]
+
+o
+
+Detailed Listing Data [Data for Advanced Users]:
+o Listing Data with Additional Detail
+o Reviews – Data Table with a row for each Listing and Review
+[Useful to infer number of visits / bookings]
+o Calendar – Data on when each listing was available.
+
+The Listings data is the most useful dataset. Only move into the reviews / calendar if you have some
+specific questions that this data can answer and have a plan for how to implement this.
+You are welcome to collect others if you find them helpful. You do not need super sophisticated
+programming/statistical skills for this assignment. I am not evaluating your ability to perform
+statistical analysis. I just would like you to get exposed to working with data in a way that is analogous
+to what we discuss. It should be possible to do whatever you want / need with the technical skills that
+we learned in (or beyond) the class.
+Due Dates
+o
+o
+
+Final presentation Dec 2/4
+Final deliverable Dec 7, 5pm ET
+
+Grading
+Grade Component
+A) What will be the future of Home Sharing in LA?
+B) What is important for a successful listing?
+
+Weight of Total Grade 30%
+15%
+15%
+
+Grade Rubrics
+
+Share of Total Grade
+
+Empirical Approach
+(Do you have a plausible approach to answer the question?)
+Insights
+(Do you arrive at meaningful and informative insights?)
+Style
+(Is it clear and well explained?)
+
+50%
+40%
+10%
+
+
